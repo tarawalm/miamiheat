@@ -1,2 +1,2 @@
 # All About Miami Heat
-!Heat Logo (heat.png)
+![Heat Logo](heat.png)
