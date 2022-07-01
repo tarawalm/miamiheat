@@ -2,10 +2,5 @@
 ![Heat Logo](heat.png)
 ## This Repository is all for the Miami Heat ##
 ### Table of Contents ###
-<ol> Team History
-Team Ownershup
-Team Current Roster <li>
-Team History
-Team Ownershup
-Team Current Roster
+* [Code] (https://github.com/tarawalm/miamiheat/tree/a4933064c6be019978fa39b84bdb4b6f17e84e19/code)
   
